@@ -1,4 +1,5 @@
 # soan-tkbhp-UET
+Lười quá, ai đó làm hộ đi.
 
 ## Pending features
 - Scan pdf để lấy danh sách các môn
