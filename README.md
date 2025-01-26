@@ -4,5 +4,5 @@
 - Scan pdf để lấy danh sách các môn
 - Thêm môn thủ công nếu không scan được ở pdf
 
-## Credentials
+## Credits
 Fork từ github hidang/soan-tkbhp-UIT
